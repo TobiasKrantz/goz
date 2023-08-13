@@ -1,2 +1,3 @@
-# goz
-ZBrush GoZ file format parser and serializer. 
+# GoZ Parser and Serializer.
+
+Here are functions for writing and reading Zbrush GoZ files. 
